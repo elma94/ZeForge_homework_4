@@ -1,0 +1,136 @@
+*{
+ 
+    margin: 0;
+}
+ 
+html{
+    background-color: #8E0B0B;
+}
+ 
+#section1, #section2{
+    margin-left: 150px;
+    margin-right: 100px;
+    width: 1050px;
+}
+ 
+header{
+    background-color: transparent;
+    margin-bottom: 10px;
+}
+ 
+.zeforgeLogo, img{
+    height: 80px;
+    width: 250px;
+}
+ 
+nav{
+    background-color: #908F8F;
+    display: block;
+    height: 50px;
+    width: 1050px;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+nav li{
+    display: inline-block;
+    color: white;
+    padding: 15px;
+}
+ 
+.firstLi{
+    margin-left: 58px;
+}
+ 
+.thirdLi{
+    border-left: 0.6px solid white;
+    border-right: 0.6px solid white;
+}
+ 
+.about{
+    height: 250px;
+    display: block;
+    background: #6AAE7C;
+    color: white;
+    font-family: verdana;
+    opacity: 0.9;
+}
+ 
+.aboutImage img{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+ 
+.aboutTitle{
+    display: inline-block;
+    margin-top: 70px;
+    font-size: 26px;
+    font-weight: bold;
+    margin-left: 150px;
+}
+ 
+.aboutTxt{
+    margin-left: 400px;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-right: 40px;
+}
+ 
+#section2{
+    margin-top: 30px;
+}
+ 
+.sidebar{
+    float: left;
+    display: block;
+    height: 600px;
+    width: 330px;
+    background-color: #91ADC6;
+    color: white;
+    font-family: arial;
+}
+ 
+ul{
+    margin-top: 30px;
+    margin-left: 60px;
+    padding: 5px;
+    border-bottom: 1px solid white;
+    margin-right: 100px;
+}
+ 
+.boldBottomLine{
+    border-bottom: 1px solid white;
+    margin-right: 100px;
+    margin-left: 60px;
+ 
+}
+.content{
+    display: block;
+    position: relative;
+    background-color:#C0C0C0;
+    margin-left: 330px;
+    height: 600px;
+}
+ 
+.contentTitle{
+    color:  #708090;
+    font-weight: 900;
+    font-family: arial;
+    padding-top: 30px;
+    margin:20px;
+    font-size: 18px;
+    margin-left: 70px;
+}
+ 
+.contentTxt{
+    margin-left: 70px;
+    margin-right: 40px;
+    color:  #696969;
+    font-family: arial;
+}
+ 
+footer{
+    height: 100px;
+}
